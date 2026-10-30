@@ -1,0 +1,3 @@
+interface:
+  display_name: "PinScout"
+  short_description: "Research Pinterest and download images and videos"
